@@ -27,7 +27,8 @@ url: "https://alexhanabich.github.io" # the base hostname & protocol for your si
 github_username:  alexhanabich
 
 # Build settings
-theme: minima
+# personalizing minima theme
+# theme: minima
 plugins:
   - jekyll-feed
 
