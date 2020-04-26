@@ -4,5 +4,6 @@
 
 layout: home-code
 title: "Code"
+permalink: /code/
 category: code
 ---

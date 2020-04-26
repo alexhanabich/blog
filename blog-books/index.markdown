@@ -4,5 +4,6 @@
 
 layout: home-books
 title: "Books"
+permalink: /books/
 category: books
 ---
